@@ -82,4 +82,6 @@
         libraries used in this project. Their work has been instrumental in 
         bringing this project to life.</p>
 
-    <p>Happy coding and safe self-driving! 🚗🚦</p>
+ 
+<h3> Happy coding and safe self-driving! 🚗🚦 </h3>
+    
